@@ -1,1 +1,5 @@
-a {color: blue}
+.header-nav-item {color: blue}
+
+table, th, td {
+	border: 1px solid black;
+}
